@@ -2,6 +2,7 @@
     "name":"node-social-data-mining",
     "version":"0.0.1",
     "dependencies":{
-        "mongodb":""
+        "mongodb":"",
+        "ntwitter":""
     }
 }
